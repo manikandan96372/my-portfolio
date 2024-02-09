@@ -81,6 +81,8 @@ const Works = () => {
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
           A google meet bot client that could assist a user in meetings with various functionalities like send chat messages to participants, automatically turn on and off microphone and video, change layout of meetings, raise hand etc.
+          <br /><br />
+          "<a href='https://github.com/manikandan96372/meet-bot-client'>https://github.com/manikandan96372/meet-bot-client</a>""
         </motion.p>
       </div>
 
@@ -92,7 +94,11 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          A google meet bot server that acts as the controller for meet bot client's actions in the meeting and track the activities and provides necessary commands         </motion.p>
+          A google meet bot server that acts as the controller for meet bot client's actions in the meeting and track the activities and provides necessary commands
+
+          <br /><br />
+          "<a href='https://github.com/manikandan96372/meet-bot-server'>https://github.com/manikandan96372/meet-bot-server</a>""
+        </motion.p>
       </div>
 
       <br /><br /><br />
@@ -102,7 +108,10 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          A beginner's tutorial in medium website for learning the fundamentals of RUST programming language        </motion.p>
+          A beginner's tutorial in medium website for learning the fundamentals of RUST programming language
+          <br /><br />
+          "<a href='https://medium.com/@manikandan96372'>https://medium.com/@manikandan96372</a>""
+        </motion.p>
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>
